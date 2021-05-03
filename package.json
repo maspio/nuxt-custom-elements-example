@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@nuxtjs/vuetify": "1.11.3",
-    "core-js": "3.11.0",
+    "core-js": "3.11.2",
     "nuxt": "2.15.4",
     "nuxt-custom-elements": "1.6.2",
     "nuxt-i18n": "6.26.0",
@@ -33,7 +33,7 @@
     "eslint": "7.25.0",
     "eslint-plugin-nuxt": "2.0.0",
     "eslint-plugin-vue": "7.9.0",
-    "stylelint": "13.13.0",
+    "stylelint": "13.13.1",
     "stylelint-config-recess-order": "2.4.0",
     "stylelint-config-standard": "22.0.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@2.1.2"
